@@ -1,0 +1,25 @@
+.d1{
+	background-color:orange;
+	border-style: solid black;
+	padding: 7px;
+	width:340px;
+}
+
+.d2{
+	background-color:yellow;
+	border-style: solid black;
+
+	width:200px;
+}
+.d3{
+	background-color:yellow;
+	padding : 7px;
+}
+.d4{
+	left: 200px;
+	display: inline-block;
+	vertical-align: top;
+}
+.d5{
+		display:inline-block;
+}
